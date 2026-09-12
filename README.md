@@ -16,25 +16,22 @@
 | ☕ **Espresso** | Java, Spring, Gradle | Small services with clean seams. Domain first, framework second. |
 | 🍯 **Pour-over** | JavaScript, TypeScript, Node | Readable over clever. Types where they pay for themselves. |
 | 🐍 **House blend** | Python | Automation, data plumbing, crawlers that survive a bad connection. |
+| 🥐 **Filter** | PHP | Legacy kitchens welcome. Refactor first, never rewrite on a Friday. |
+| 🧊 **Cold brew** | Rust | For the parts that must be fast and cannot be wrong. |
+| ⚙️ **Ristretto** | C++ | Short, strong, close to the metal. |
 | 🧾 **On the side** | SQL, Docker, CI | Honest metrics, reproducible builds, logs a human can read. |
 
 <br>
 
 ## On the counter
 
-<a href="https://github.com/IwillLive/IwillLiveDev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IwillLive&repo=IwillLiveDev&bg_color=0d1117&border_color=30363d&title_color=e8c9a5&text_color=c9d1d9&icon_color=f0c33c" alt="IwillLiveDev">
-</a>
+Today's special: **[IwillLiveDev](https://github.com/IwillLive/IwillLiveDev)**, the workbench where most of the above gets brewed.
 
-<br>
 <br>
 
 ## Receipt
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IwillLive&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=e8c9a5&text_color=c9d1d9&icon_color=f0c33c&ring_color=e8c9a5&hide_title=false" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IwillLive&layout=compact&bg_color=0d1117&border_color=30363d&title_color=e8c9a5&text_color=c9d1d9&hide_border=false" alt="Top languages" height="165">
-</p>
+<img src="assets/receipt.svg" alt="Receipt: java brewed daily, javascript served fresh, python tamed, php kept warm, rust cold brew, c++ ristretto" width="420">
 
 <br>
 

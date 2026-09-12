@@ -51,11 +51,14 @@
   <text x="224" y="168" class="mono" font-size="15" fill="#8b949e">Clean architecture. Honest metrics. DX without pain.</text>
 
   <!-- Ticket stub -->
-  <g transform="translate(724,60)">
-    <rect x="0" y="0" width="150" height="112" rx="10" fill="#0d1117" stroke="#30363d" stroke-dasharray="4 4"/>
-    <text x="16" y="30" class="mono" font-size="12" fill="#8b949e">order № 0001</text>
-    <text x="16" y="56" class="mono" font-size="13" fill="#e8c9a5">java  ....  brewed</text>
-    <text x="16" y="76" class="mono" font-size="13" fill="#f0c33c">js    ....  served</text>
-    <text x="16" y="96" class="mono" font-size="13" fill="#7fb4e0">python ...  tamed</text>
+  <g transform="translate(724,32)">
+    <rect x="0" y="0" width="150" height="170" rx="10" fill="#0d1117" stroke="#30363d" stroke-dasharray="4 4"/>
+    <text x="16" y="28" class="mono" font-size="12" fill="#8b949e">order № 0001</text>
+    <text x="16" y="54" class="mono" font-size="13" fill="#e8c9a5">java   ...  brewed</text>
+    <text x="16" y="74" class="mono" font-size="13" fill="#f0c33c">js     ...  served</text>
+    <text x="16" y="94" class="mono" font-size="13" fill="#7fb4e0">python ...  tamed</text>
+    <text x="16" y="114" class="mono" font-size="13" fill="#a48be0">php    ...  warm</text>
+    <text x="16" y="134" class="mono" font-size="13" fill="#e57b5a">rust   ...  cold</text>
+    <text x="16" y="154" class="mono" font-size="13" fill="#8fd1a8">c++    ...  short</text>
   </g>
 </svg>
