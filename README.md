@@ -26,7 +26,7 @@
 ## On the counter
 
 <a href="https://github.com/IwillLive/IwillLiveDev">
-  <img src="assets/counter.svg" alt="IwillLiveDev — the workbench where most of the menu gets brewed" width="420">
+  <img src="assets/counter-card.svg" alt="IwillLiveDev — the workbench where most of the menu gets brewed" width="420">
 </a>
 
 <br>
