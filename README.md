@@ -25,7 +25,19 @@
 
 ## On the counter
 
-Today's special: **[IwillLiveDev](https://github.com/IwillLive/IwillLiveDev)**, the workbench where most of the above gets brewed.
+<a href="https://github.com/IwillLive/IwillLiveDev">
+  <img src="assets/counter.svg" alt="IwillLiveDev — the workbench where most of the menu gets brewed" width="420">
+</a>
+
+<br>
+
+## Kitchen rules
+
+1. **Boundaries first.** A module you can't describe in one sentence is two modules.
+2. **Measure before you tune.** Publish the numbers even when they are ugly. Especially then.
+3. **Logs are for a human at 3 a.m.** Say what happened and what to do next, not a stack of nouns.
+4. **Types where they pay rent, tests where they catch regressions.** Neither is decoration.
+5. **Good tooling disappears.** If you notice it, it is already in the way.
 
 <br>
 
